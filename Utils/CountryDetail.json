@@ -1,0 +1,2252 @@
+[
+	{
+		"_id" : "00fb4d3f-9da6-4935-a702-8b6c8e0262de",
+		"name" : "Montserrat",
+		"longitude" : -62.20000000,
+		"latitude" : 16.75000000,
+		"createdAt" : "2023-12-04 12:52:52",
+		"updatedAt" : "2023-12-04 12:52:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "02cf8c05-ba6b-4714-b6ad-edb896bb527f",
+		"name" : "Argentina",
+		"longitude" : -64.00000000,
+		"latitude" : -34.00000000,
+		"createdAt" : "2023-12-04 12:46:29",
+		"updatedAt" : "2023-12-04 12:46:29",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "07147849-6b5c-4204-95d4-88827b25c5fa",
+		"name" : "Slovakia",
+		"longitude" : 19.50000000,
+		"latitude" : 48.66666666,
+		"createdAt" : "2023-12-04 12:55:32",
+		"updatedAt" : "2023-12-04 12:55:32",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0999e593-5880-453e-a4e6-612c8f5ca2a6",
+		"name" : "Algeria",
+		"longitude" : 3.00000000,
+		"latitude" : 28.00000000,
+		"createdAt" : "2023-12-04 12:46:26",
+		"updatedAt" : "2023-12-04 12:46:26",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0b5fc6cd-0c4d-4293-a6d8-75bae73be06c",
+		"name" : "Nigeria",
+		"longitude" : 8.00000000,
+		"latitude" : 10.00000000,
+		"createdAt" : "2023-12-04 12:53:06",
+		"updatedAt" : "2023-12-04 12:53:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0c370683-888e-4a13-9af8-2059dd371e52",
+		"name" : "Sao Tome and Principe",
+		"longitude" : 7.00000000,
+		"latitude" : 1.00000000,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0cc0e91d-2470-49ef-b9fc-01f45284fc05",
+		"name" : "Papua new Guinea",
+		"longitude" : 147.00000000,
+		"latitude" : -6.00000000,
+		"createdAt" : "2023-12-04 12:53:19",
+		"updatedAt" : "2023-12-04 12:53:19",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0dcca97c-9ba4-48e5-bfaf-7fda37ec4efb",
+		"name" : "Bouvet Island",
+		"longitude" : 3.40000000,
+		"latitude" : -54.43333333,
+		"createdAt" : "2023-12-04 12:47:20",
+		"updatedAt" : "2023-12-04 12:47:20",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0fb9e35c-b79c-4a77-b4bc-855f04bbc9c6",
+		"name" : "Zambia",
+		"longitude" : 30.00000000,
+		"latitude" : -15.00000000,
+		"createdAt" : "2023-12-04 12:59:08",
+		"updatedAt" : "2023-12-04 12:59:08",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0fbfbad4-7b3e-4bf6-a534-1002d4eaeb4f",
+		"name" : "Armenia",
+		"longitude" : 45.00000000,
+		"latitude" : 40.00000000,
+		"createdAt" : "2023-12-04 12:46:35",
+		"updatedAt" : "2023-12-04 12:46:35",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "0ff3abdd-7347-43f9-99da-6e78dcbecb05",
+		"name" : "Qatar",
+		"longitude" : 51.25000000,
+		"latitude" : 25.50000000,
+		"createdAt" : "2023-12-04 12:54:18",
+		"updatedAt" : "2023-12-04 12:54:18",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1011e421-4b15-4046-8df5-bcc7477cb605",
+		"name" : "Netherlands",
+		"longitude" : 5.75000000,
+		"latitude" : 52.50000000,
+		"createdAt" : "2023-12-04 12:52:55",
+		"updatedAt" : "2023-12-04 12:52:55",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "121cace3-a957-4d08-a86a-7806324e2174",
+		"name" : "Ecuador",
+		"longitude" : -77.50000000,
+		"latitude" : -2.00000000,
+		"createdAt" : "2023-12-04 12:48:32",
+		"updatedAt" : "2023-12-04 12:48:32",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "12e2b0e0-79c4-4bdd-906d-f7993adf573f",
+		"name" : "Swaziland",
+		"longitude" : 31.50000000,
+		"latitude" : -26.50000000,
+		"createdAt" : "2023-12-04 12:56:23",
+		"updatedAt" : "2023-12-04 12:56:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "13374a71-6845-49e2-a79d-7913a1246fb4",
+		"name" : "Paraguay",
+		"longitude" : -58.00000000,
+		"latitude" : -23.00000000,
+		"createdAt" : "2023-12-04 12:53:19",
+		"updatedAt" : "2023-12-04 12:53:19",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1415f77e-415a-49b4-a10f-f367d83c1c3a",
+		"name" : "Bosnia and Herzegovina",
+		"longitude" : 18.00000000,
+		"latitude" : 44.00000000,
+		"createdAt" : "2023-12-04 12:47:18",
+		"updatedAt" : "2023-12-04 12:47:18",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1467dcf4-bc2e-4500-8ab2-c810a7a71555",
+		"name" : "Liberia",
+		"longitude" : -9.50000000,
+		"latitude" : 6.50000000,
+		"createdAt" : "2023-12-04 12:51:59",
+		"updatedAt" : "2023-12-04 12:51:59",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "15d47f75-6bb1-4f96-907a-02ff545ec447",
+		"name" : "Iceland",
+		"longitude" : -18.00000000,
+		"latitude" : 65.00000000,
+		"createdAt" : "2023-12-04 12:50:16",
+		"updatedAt" : "2023-12-04 12:50:16",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "16377a86-7c8b-4240-a86d-785a9742d46e",
+		"name" : "Liechtenstein",
+		"longitude" : 9.53333333,
+		"latitude" : 47.26666666,
+		"createdAt" : "2023-12-04 12:52:00",
+		"updatedAt" : "2023-12-04 12:52:00",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "179b93be-b5f4-445c-88b6-d5e114b838b8",
+		"name" : "Anguilla",
+		"longitude" : -63.16666666,
+		"latitude" : 18.25000000,
+		"createdAt" : "2023-12-04 12:46:29",
+		"updatedAt" : "2023-12-04 12:46:29",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "17d3084e-ed69-4c0f-aaf6-be518955a22c",
+		"name" : "French Polynesia",
+		"longitude" : -140.00000000,
+		"latitude" : -15.00000000,
+		"createdAt" : "2023-12-04 12:49:22",
+		"updatedAt" : "2023-12-04 12:49:22",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1bfc6c1f-b529-437c-87e6-47a519b0ef9e",
+		"name" : "Dominica",
+		"longitude" : -61.33333333,
+		"latitude" : 15.41666666,
+		"createdAt" : "2023-12-04 12:48:30",
+		"updatedAt" : "2023-12-04 12:48:30",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1ca2474e-db93-48fb-99c9-17a609440641",
+		"name" : "Uzbekistan",
+		"longitude" : 64.00000000,
+		"latitude" : 41.00000000,
+		"createdAt" : "2023-12-04 12:59:01",
+		"updatedAt" : "2023-12-04 12:59:01",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1eb402da-9102-4f18-8fdd-83694d1e275f",
+		"name" : "Cambodia",
+		"longitude" : 105.00000000,
+		"latitude" : 13.00000000,
+		"createdAt" : "2023-12-04 12:47:51",
+		"updatedAt" : "2023-12-04 12:47:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "1f7424f5-62f7-4d01-9380-d6d8ff7b2ebe",
+		"name" : "Botswana",
+		"longitude" : 24.00000000,
+		"latitude" : -22.00000000,
+		"createdAt" : "2023-12-04 12:47:19",
+		"updatedAt" : "2023-12-04 12:47:19",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "21c6077e-b37e-4f7b-940f-a1d4110f5fc1",
+		"name" : "Bolivia",
+		"longitude" : -65.00000000,
+		"latitude" : -17.00000000,
+		"createdAt" : "2023-12-04 12:47:17",
+		"updatedAt" : "2023-12-04 12:47:17",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "23d74f35-a6a1-40cf-8298-81888ecdd627",
+		"name" : "Congo",
+		"longitude" : 15.00000000,
+		"latitude" : -1.00000000,
+		"createdAt" : "2023-12-04 12:48:14",
+		"updatedAt" : "2023-12-04 12:48:14",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "26f8dfca-681e-47f4-8e5b-82de17bc587c",
+		"name" : "Serbia",
+		"longitude" : 21.00000000,
+		"latitude" : 44.00000000,
+		"createdAt" : "2023-12-04 12:55:30",
+		"updatedAt" : "2023-12-04 12:55:30",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "270403d3-e737-4731-a640-df652c2b06c0",
+		"name" : "Virgin Islands (British)",
+		"longitude" : -64.62305000,
+		"latitude" : 18.43138300,
+		"createdAt" : "2023-12-04 12:59:06",
+		"updatedAt" : "2023-12-04 12:59:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "28236085-83f6-438b-91c0-b086f1adf893",
+		"name" : "Myanmar",
+		"longitude" : 98.00000000,
+		"latitude" : 22.00000000,
+		"createdAt" : "2023-12-04 12:52:54",
+		"updatedAt" : "2023-12-04 12:52:54",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "28e1b813-e4fb-406c-b66b-74ac316ffddb",
+		"name" : "Brunei",
+		"longitude" : 114.66666666,
+		"latitude" : 4.50000000,
+		"createdAt" : "2023-12-04 12:47:48",
+		"updatedAt" : "2023-12-04 12:47:48",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2a693559-36eb-4611-885b-eabdf3b6135c",
+		"name" : "Lebanon",
+		"longitude" : 35.83333333,
+		"latitude" : 33.83333333,
+		"createdAt" : "2023-12-04 12:51:59",
+		"updatedAt" : "2023-12-04 12:51:59",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2a7c891e-ee4f-40bd-953b-5b2a7dfd4b48",
+		"name" : "Kosovo",
+		"longitude" : 20.34030350,
+		"latitude" : 42.56129090,
+		"createdAt" : "2023-12-04 12:51:57",
+		"updatedAt" : "2023-12-04 12:51:57",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2ac3871e-15dd-4818-8a1e-3f5cbf53fa33",
+		"name" : "Greenland",
+		"longitude" : -40.00000000,
+		"latitude" : 72.00000000,
+		"createdAt" : "2023-12-04 12:50:04",
+		"updatedAt" : "2023-12-04 12:50:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2afde913-f44c-4a33-87f4-34e01bede04b",
+		"name" : "Democratic Republic of the Congo",
+		"longitude" : 25.00000000,
+		"latitude" : 0.00000000,
+		"createdAt" : "2023-12-04 12:48:28",
+		"updatedAt" : "2023-12-04 12:48:28",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2d1859fd-9c0e-4243-aff8-1700cdf6d581",
+		"name" : "Turks And Caicos Islands",
+		"longitude" : -71.58333333,
+		"latitude" : 21.75000000,
+		"createdAt" : "2023-12-04 12:56:51",
+		"updatedAt" : "2023-12-04 12:56:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2dde42d7-47bc-49fe-84b3-5422f4492947",
+		"name" : "Mongolia",
+		"longitude" : 105.00000000,
+		"latitude" : 46.00000000,
+		"createdAt" : "2023-12-04 12:52:52",
+		"updatedAt" : "2023-12-04 12:52:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2e0eabbd-b2d5-4870-a45d-ad30cccd7be5",
+		"name" : "Mauritius",
+		"longitude" : 57.55000000,
+		"latitude" : -20.28333333,
+		"createdAt" : "2023-12-04 12:52:05",
+		"updatedAt" : "2023-12-04 12:52:05",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "2f5c96e9-dcf3-44a4-bb7a-f3940b3aa7b1",
+		"name" : "Czech Republic",
+		"longitude" : 15.50000000,
+		"latitude" : 49.75000000,
+		"createdAt" : "2023-12-04 12:48:20",
+		"updatedAt" : "2023-12-04 12:48:20",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "31879049-9a6a-4ff3-8f54-5b1a7f5542f2",
+		"name" : "Samoa",
+		"longitude" : -172.33333333,
+		"latitude" : -13.58333333,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "329677fd-5bf9-4831-81f1-754b21ba78ec",
+		"name" : "Macau S.A.R.",
+		"longitude" : 113.55000000,
+		"latitude" : 22.16666666,
+		"createdAt" : "2023-12-04 12:52:02",
+		"updatedAt" : "2023-12-04 12:52:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "349ece22-c31e-4b74-b320-c4ac5c03cd68",
+		"name" : "Thailand",
+		"longitude" : 100.00000000,
+		"latitude" : 15.00000000,
+		"createdAt" : "2023-12-04 12:56:38",
+		"updatedAt" : "2023-12-04 12:56:38",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "353f9211-0f95-4498-9426-07feabc40ce6",
+		"name" : "Jamaica",
+		"longitude" : -77.50000000,
+		"latitude" : 18.25000000,
+		"createdAt" : "2023-12-04 12:51:42",
+		"updatedAt" : "2023-12-04 12:51:42",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "3a12d72c-98bb-4a03-aedb-75d5ba228461",
+		"name" : "Zimbabwe",
+		"longitude" : 30.00000000,
+		"latitude" : -20.00000000,
+		"createdAt" : "2023-12-04 12:59:08",
+		"updatedAt" : "2023-12-04 12:59:08",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "3be31ecf-6f8a-4561-b35e-4b63c28a3415",
+		"name" : "Guinea-Bissau",
+		"longitude" : -15.00000000,
+		"latitude" : 12.00000000,
+		"createdAt" : "2023-12-04 12:50:06",
+		"updatedAt" : "2023-12-04 12:50:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "3bfbe75c-8a19-4d92-ae18-d77bd775ac81",
+		"name" : "Pakistan",
+		"longitude" : 70.00000000,
+		"latitude" : 30.00000000,
+		"createdAt" : "2023-12-04 12:53:13",
+		"updatedAt" : "2023-12-04 12:53:13",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "3c6ddc03-7f2f-46b6-8467-ac7e482403f6",
+		"name" : "Hungary",
+		"longitude" : 20.00000000,
+		"latitude" : 47.00000000,
+		"createdAt" : "2023-12-04 12:50:10",
+		"updatedAt" : "2023-12-04 12:50:10",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "3c89ce5a-c60f-4ef8-8e13-b757ecd4af3c",
+		"name" : "Brazil",
+		"longitude" : -55.00000000,
+		"latitude" : -10.00000000,
+		"createdAt" : "2023-12-04 12:47:20",
+		"updatedAt" : "2023-12-04 12:47:20",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "40dde7ec-95f4-4395-b063-3f872b34942c",
+		"name" : "East Timor",
+		"longitude" : 125.91666666,
+		"latitude" : -8.83333333,
+		"createdAt" : "2023-12-04 12:48:32",
+		"updatedAt" : "2023-12-04 12:48:32",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4141c77d-b7b8-4c7a-973a-085d98a3a493",
+		"name" : "Guam",
+		"longitude" : 144.78333333,
+		"latitude" : 13.46666666,
+		"createdAt" : "2023-12-04 12:50:04",
+		"updatedAt" : "2023-12-04 12:50:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "417310a2-7f62-465c-b3ef-2adaa115d216",
+		"name" : "Namibia",
+		"longitude" : 17.00000000,
+		"latitude" : -22.00000000,
+		"createdAt" : "2023-12-04 12:52:55",
+		"updatedAt" : "2023-12-04 12:52:55",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "42005429-bc77-490c-9cda-7cec00bf1322",
+		"name" : "Jersey",
+		"longitude" : -2.16666666,
+		"latitude" : 49.25000000,
+		"createdAt" : "2023-12-04 12:51:54",
+		"updatedAt" : "2023-12-04 12:51:54",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "42d9ce19-0b64-45cb-9096-0077e6571328",
+		"name" : "Mali",
+		"longitude" : -4.00000000,
+		"latitude" : 17.00000000,
+		"createdAt" : "2023-12-04 12:52:04",
+		"updatedAt" : "2023-12-04 12:52:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4415b3fd-a361-4033-b027-c8e485556106",
+		"name" : "China",
+		"longitude" : 105.00000000,
+		"latitude" : 35.00000000,
+		"createdAt" : "2023-12-04 12:48:00",
+		"updatedAt" : "2023-12-04 12:48:00",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "444e700f-95f3-4aaa-b23f-b923aa94ad4b",
+		"name" : "Morocco",
+		"longitude" : -5.00000000,
+		"latitude" : 32.00000000,
+		"createdAt" : "2023-12-04 12:52:52",
+		"updatedAt" : "2023-12-04 12:52:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "44e04499-f858-40d0-bdd7-fa71457f015f",
+		"name" : "Suriname",
+		"longitude" : -56.00000000,
+		"latitude" : 4.00000000,
+		"createdAt" : "2023-12-04 12:56:23",
+		"updatedAt" : "2023-12-04 12:56:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4575defd-a6c9-4979-8195-826f5263d42e",
+		"name" : "Georgia",
+		"longitude" : 43.50000000,
+		"latitude" : 42.00000000,
+		"createdAt" : "2023-12-04 12:49:23",
+		"updatedAt" : "2023-12-04 12:49:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4582c35e-535c-42ee-bfea-cbdbd9d16ff5",
+		"name" : "Laos",
+		"longitude" : 105.00000000,
+		"latitude" : 18.00000000,
+		"createdAt" : "2023-12-04 12:51:57",
+		"updatedAt" : "2023-12-04 12:51:57",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "46304892-8568-492f-b777-59e77bd93951",
+		"name" : "Aland Islands",
+		"longitude" : 19.90000000,
+		"latitude" : 60.11666700,
+		"createdAt" : "2023-12-04 12:46:25",
+		"updatedAt" : "2023-12-04 12:46:25",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "477d2fb0-47cf-4297-bb62-3fb7723254af",
+		"name" : "Grenada",
+		"longitude" : -61.66666666,
+		"latitude" : 12.11666666,
+		"createdAt" : "2023-12-04 12:50:04",
+		"updatedAt" : "2023-12-04 12:50:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4870747a-0780-4110-babd-a5e451a52448",
+		"name" : "Belarus",
+		"longitude" : 28.00000000,
+		"latitude" : 53.00000000,
+		"createdAt" : "2023-12-04 12:47:12",
+		"updatedAt" : "2023-12-04 12:47:12",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "487b29c9-7102-4ca9-846b-78cead4fe823",
+		"name" : "Bahrain",
+		"longitude" : 50.55000000,
+		"latitude" : 26.00000000,
+		"createdAt" : "2023-12-04 12:47:11",
+		"updatedAt" : "2023-12-04 12:47:11",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "48c29841-56fb-433c-8ebf-2f066dbe301e",
+		"name" : "United States Minor Outlying Islands",
+		"longitude" : 0.00000000,
+		"latitude" : 0.00000000,
+		"createdAt" : "2023-12-04 12:59:00",
+		"updatedAt" : "2023-12-04 12:59:00",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "49d59b23-6725-4a4f-a593-c682d0df4fb6",
+		"name" : "South Georgia",
+		"longitude" : -37.00000000,
+		"latitude" : -54.50000000,
+		"createdAt" : "2023-12-04 12:55:38",
+		"updatedAt" : "2023-12-04 12:55:38",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4bfe9225-d4ba-49ef-b3ff-dd1dc4621e37",
+		"name" : "Saint Vincent And The Grenadines",
+		"longitude" : -61.20000000,
+		"latitude" : 13.25000000,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "4f9aa720-846a-4a64-a056-d62cdce14bf6",
+		"name" : "Guinea",
+		"longitude" : -10.00000000,
+		"latitude" : 11.00000000,
+		"createdAt" : "2023-12-04 12:50:06",
+		"updatedAt" : "2023-12-04 12:50:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "5139f211-347a-4169-babc-ad2698d743dd",
+		"name" : "Germany",
+		"longitude" : 9.00000000,
+		"latitude" : 51.00000000,
+		"createdAt" : "2023-12-04 12:49:24",
+		"updatedAt" : "2023-12-04 12:49:24",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "52294533-88f1-477e-9256-7a28351ff4ab",
+		"name" : "Cameroon",
+		"longitude" : 12.00000000,
+		"latitude" : 6.00000000,
+		"createdAt" : "2023-12-04 12:47:52",
+		"updatedAt" : "2023-12-04 12:47:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "530b7154-9d29-4dac-914a-3773515b51db",
+		"name" : "Tanzania",
+		"longitude" : 35.00000000,
+		"latitude" : -6.00000000,
+		"createdAt" : "2023-12-04 12:56:36",
+		"updatedAt" : "2023-12-04 12:56:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "55220c1d-aba7-4c0c-be86-86044d8590d8",
+		"name" : "Greece",
+		"longitude" : 22.00000000,
+		"latitude" : 39.00000000,
+		"createdAt" : "2023-12-04 12:49:59",
+		"updatedAt" : "2023-12-04 12:49:59",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "55615d00-9330-4644-bb76-f6aedb182a71",
+		"name" : "Falkland Islands",
+		"longitude" : -59.00000000,
+		"latitude" : -51.75000000,
+		"createdAt" : "2023-12-04 12:48:36",
+		"updatedAt" : "2023-12-04 12:48:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "593b7f24-7c40-4900-9027-38ab4a4fb3c6",
+		"name" : "Saint-Martin (French part)",
+		"longitude" : -63.95000000,
+		"latitude" : 18.08333333,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "5dc564c5-7368-41c3-a6c5-6cf491674cdb",
+		"name" : "Kuwait",
+		"longitude" : 45.75000000,
+		"latitude" : 29.50000000,
+		"createdAt" : "2023-12-04 12:51:57",
+		"updatedAt" : "2023-12-04 12:51:57",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "5f2c196b-39cc-4a7a-b347-5f02e8c5c37a",
+		"name" : "Marshall Islands",
+		"longitude" : 168.00000000,
+		"latitude" : 9.00000000,
+		"createdAt" : "2023-12-04 12:52:04",
+		"updatedAt" : "2023-12-04 12:52:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "60d9f81d-c4ef-463e-8b5c-b62893e93836",
+		"name" : "Chile",
+		"longitude" : -71.00000000,
+		"latitude" : -30.00000000,
+		"createdAt" : "2023-12-04 12:47:59",
+		"updatedAt" : "2023-12-04 12:47:59",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "6152f4d2-f3b9-4fbc-8ba9-dce781bf2dc5",
+		"name" : "Israel",
+		"longitude" : 34.75000000,
+		"latitude" : 31.50000000,
+		"createdAt" : "2023-12-04 12:50:52",
+		"updatedAt" : "2023-12-04 12:50:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "629ffb2f-918a-40bd-b3eb-c541362fac9b",
+		"name" : "Bangladesh",
+		"longitude" : 90.00000000,
+		"latitude" : 24.00000000,
+		"createdAt" : "2023-12-04 12:47:11",
+		"updatedAt" : "2023-12-04 12:47:11",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "62eeeba7-d6d3-4bdf-a153-b34d4f45bf6f",
+		"name" : "American Samoa",
+		"longitude" : -170.00000000,
+		"latitude" : -14.33333333,
+		"createdAt" : "2023-12-04 12:46:28",
+		"updatedAt" : "2023-12-04 12:46:28",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "636c55d4-4d6c-4067-bf99-985429a39aaf",
+		"name" : "Tajikistan",
+		"longitude" : 71.00000000,
+		"latitude" : 39.00000000,
+		"createdAt" : "2023-12-04 12:56:36",
+		"updatedAt" : "2023-12-04 12:56:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "640ddbc0-4916-4e53-aee4-615aaff02f79",
+		"name" : "Russia",
+		"longitude" : 100.00000000,
+		"latitude" : 60.00000000,
+		"createdAt" : "2023-12-04 12:54:58",
+		"updatedAt" : "2023-12-04 12:54:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "6753effa-a892-4d58-aac5-2aab83bef40b",
+		"name" : "Comoros",
+		"longitude" : 44.25000000,
+		"latitude" : -12.16666666,
+		"createdAt" : "2023-12-04 12:48:13",
+		"updatedAt" : "2023-12-04 12:48:13",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "695b1b03-e22c-4220-8c7d-743057dc8dd1",
+		"name" : "Tuvalu",
+		"longitude" : 178.00000000,
+		"latitude" : -8.00000000,
+		"createdAt" : "2023-12-04 12:56:51",
+		"updatedAt" : "2023-12-04 12:56:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "6b063558-33e4-4361-8756-a68a27f25a34",
+		"name" : "Guyana",
+		"longitude" : -59.00000000,
+		"latitude" : 5.00000000,
+		"createdAt" : "2023-12-04 12:50:07",
+		"updatedAt" : "2023-12-04 12:50:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "6ce99908-5929-4381-8162-a4fbca7918dd",
+		"name" : "Gabon",
+		"longitude" : 11.75000000,
+		"latitude" : -1.00000000,
+		"createdAt" : "2023-12-04 12:49:22",
+		"updatedAt" : "2023-12-04 12:49:22",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "6e6507a7-cec1-4fb8-b8d9-37e2d00e07b8",
+		"name" : "Senegal",
+		"longitude" : -14.00000000,
+		"latitude" : 14.00000000,
+		"createdAt" : "2023-12-04 12:55:29",
+		"updatedAt" : "2023-12-04 12:55:29",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "71df3212-5345-409f-891c-a7dee726aa47",
+		"name" : "Estonia",
+		"longitude" : 26.00000000,
+		"latitude" : 59.00000000,
+		"createdAt" : "2023-12-04 12:48:34",
+		"updatedAt" : "2023-12-04 12:48:34",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "724d391f-b89b-4c1e-9953-4851852080ff",
+		"name" : "Malawi",
+		"longitude" : 34.00000000,
+		"latitude" : -13.50000000,
+		"createdAt" : "2023-12-04 12:52:02",
+		"updatedAt" : "2023-12-04 12:52:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "73d0f9f8-055e-4c0f-bbe0-04aca8d74499",
+		"name" : "Costa Rica",
+		"longitude" : -84.00000000,
+		"latitude" : 10.00000000,
+		"createdAt" : "2023-12-04 12:48:14",
+		"updatedAt" : "2023-12-04 12:48:14",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "74e5fcd1-6131-40a4-a314-18c3a3f18076",
+		"name" : "Martinique",
+		"longitude" : -61.00000000,
+		"latitude" : 14.66666700,
+		"createdAt" : "2023-12-04 12:52:04",
+		"updatedAt" : "2023-12-04 12:52:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "752a7509-a55f-486a-9a34-06fee55e7ee5",
+		"name" : "Oman",
+		"longitude" : 57.00000000,
+		"latitude" : 21.00000000,
+		"createdAt" : "2023-12-04 12:53:13",
+		"updatedAt" : "2023-12-04 12:53:13",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "76b81e0a-a961-4049-9efb-95ed415ad4f5",
+		"name" : "Colombia",
+		"longitude" : -72.00000000,
+		"latitude" : 4.00000000,
+		"createdAt" : "2023-12-04 12:48:07",
+		"updatedAt" : "2023-12-04 12:48:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "76bc68df-1b32-4f6b-95cc-4ec2a26fedc8",
+		"name" : "Trinidad And Tobago",
+		"longitude" : -61.00000000,
+		"latitude" : 11.00000000,
+		"createdAt" : "2023-12-04 12:56:45",
+		"updatedAt" : "2023-12-04 12:56:45",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "7719ba1b-bbe4-4122-9b21-4f6d715055f4",
+		"name" : "Cook Islands",
+		"longitude" : -159.76666666,
+		"latitude" : -21.23333333,
+		"createdAt" : "2023-12-04 12:48:14",
+		"updatedAt" : "2023-12-04 12:48:14",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "787a3947-0f8b-43fb-9de1-008cde5aaa8f",
+		"name" : "Luxembourg",
+		"longitude" : 6.16666666,
+		"latitude" : 49.75000000,
+		"createdAt" : "2023-12-04 12:52:01",
+		"updatedAt" : "2023-12-04 12:52:01",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "7bdbc305-27f7-43a4-a2b7-5de6f4f22a0b",
+		"name" : "Benin",
+		"longitude" : 2.25000000,
+		"latitude" : 9.50000000,
+		"createdAt" : "2023-12-04 12:47:16",
+		"updatedAt" : "2023-12-04 12:47:16",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "7cd989d8-491b-4b09-8f2b-f3089fafbb94",
+		"name" : "Andorra",
+		"longitude" : 1.50000000,
+		"latitude" : 42.50000000,
+		"createdAt" : "2023-12-04 12:46:28",
+		"updatedAt" : "2023-12-04 12:46:28",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "7cebefac-34da-4c3e-bb71-b2f2fde2eac0",
+		"name" : "Rwanda",
+		"longitude" : 30.00000000,
+		"latitude" : -2.00000000,
+		"createdAt" : "2023-12-04 12:55:24",
+		"updatedAt" : "2023-12-04 12:55:24",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "7ed36dbb-8da3-4b79-95fc-cd8bbfd47873",
+		"name" : "Ghana",
+		"longitude" : -2.00000000,
+		"latitude" : 8.00000000,
+		"createdAt" : "2023-12-04 12:49:58",
+		"updatedAt" : "2023-12-04 12:49:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "7fe190c7-2521-4b35-8dae-0f863d13b6f3",
+		"name" : "United Arab Emirates",
+		"longitude" : 54.00000000,
+		"latitude" : 24.00000000,
+		"createdAt" : "2023-12-04 12:57:02",
+		"updatedAt" : "2023-12-04 12:57:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8103c9bf-8053-4c67-bb25-166ee1195199",
+		"name" : "Lithuania",
+		"longitude" : 24.00000000,
+		"latitude" : 56.00000000,
+		"createdAt" : "2023-12-04 12:52:00",
+		"updatedAt" : "2023-12-04 12:52:00",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "813b5624-c873-4016-8b71-a0dbb168cd3e",
+		"name" : "Indonesia",
+		"longitude" : 120.00000000,
+		"latitude" : -5.00000000,
+		"createdAt" : "2023-12-04 12:50:36",
+		"updatedAt" : "2023-12-04 12:50:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "82597dc6-bcf3-4da3-a10a-b7678893d51b",
+		"name" : "Tonga",
+		"longitude" : -175.00000000,
+		"latitude" : -20.00000000,
+		"createdAt" : "2023-12-04 12:56:45",
+		"updatedAt" : "2023-12-04 12:56:45",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8495c82a-99f3-486b-a387-fded6f3523fc",
+		"name" : "Nauru",
+		"longitude" : 166.91666666,
+		"latitude" : -0.53333333,
+		"createdAt" : "2023-12-04 12:52:55",
+		"updatedAt" : "2023-12-04 12:52:55",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "84b2674d-4c2f-453e-8068-6a2d730d31b9",
+		"name" : "Uruguay",
+		"longitude" : -56.00000000,
+		"latitude" : -33.00000000,
+		"createdAt" : "2023-12-04 12:59:01",
+		"updatedAt" : "2023-12-04 12:59:01",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "85ff971c-1e73-4f5f-8919-0676efe70333",
+		"name" : "Gibraltar",
+		"longitude" : -5.35000000,
+		"latitude" : 36.13333333,
+		"createdAt" : "2023-12-04 12:49:59",
+		"updatedAt" : "2023-12-04 12:49:59",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "87fab1de-7f66-4309-8012-b5be43da2176",
+		"name" : "Azerbaijan",
+		"longitude" : 47.50000000,
+		"latitude" : 40.50000000,
+		"createdAt" : "2023-12-04 12:47:09",
+		"updatedAt" : "2023-12-04 12:47:09",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "89c56a3f-ae45-4c78-bafa-4bbbeaf5ef75",
+		"name" : "San Marino",
+		"longitude" : 12.41666666,
+		"latitude" : 43.76666666,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8a33ad6e-1cee-4133-89b9-5d8308dea380",
+		"name" : "New Caledonia",
+		"longitude" : 165.50000000,
+		"latitude" : -21.50000000,
+		"createdAt" : "2023-12-04 12:53:03",
+		"updatedAt" : "2023-12-04 12:53:03",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8a65a081-1cbe-46c0-aaa9-f61141ff2b94",
+		"name" : "Saint Helena",
+		"longitude" : -5.70000000,
+		"latitude" : -15.95000000,
+		"createdAt" : "2023-12-04 12:55:24",
+		"updatedAt" : "2023-12-04 12:55:24",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8b5b85a3-6e36-41b2-bfe6-075576c4f95b",
+		"name" : "Slovenia",
+		"longitude" : 14.81666666,
+		"latitude" : 46.11666666,
+		"createdAt" : "2023-12-04 12:55:33",
+		"updatedAt" : "2023-12-04 12:55:33",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8bef078c-e846-4a44-afd4-33e0efa29a05",
+		"name" : "Norfolk Island",
+		"longitude" : 167.95000000,
+		"latitude" : -29.03333333,
+		"createdAt" : "2023-12-04 12:53:08",
+		"updatedAt" : "2023-12-04 12:53:08",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8e4ce99c-f3fc-4f34-ad03-925aa98d9e86",
+		"name" : "Saint Lucia",
+		"longitude" : -60.96666666,
+		"latitude" : 13.88333333,
+		"createdAt" : "2023-12-04 12:55:24",
+		"updatedAt" : "2023-12-04 12:55:24",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "8f5d0230-8a38-4de8-a50b-6bf366fcffaa",
+		"name" : "Norway",
+		"longitude" : 10.00000000,
+		"latitude" : 62.00000000,
+		"createdAt" : "2023-12-04 12:53:10",
+		"updatedAt" : "2023-12-04 12:53:10",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "9055cb17-c6e4-4223-8d08-77b9d9702c33",
+		"name" : "United States",
+		"longitude" : -97.00000000,
+		"latitude" : 38.00000000,
+		"createdAt" : "2023-12-04 12:57:23",
+		"updatedAt" : "2023-12-04 12:57:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "91a7f205-165d-4ed4-8646-3d203ce34797",
+		"name" : "Australia",
+		"longitude" : 133.00000000,
+		"latitude" : -27.00000000,
+		"createdAt" : "2023-12-04 12:46:37",
+		"updatedAt" : "2023-12-04 12:46:37",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "92491d95-9f24-404e-a5a8-c2da0cc06c8c",
+		"name" : "Montenegro",
+		"longitude" : 19.30000000,
+		"latitude" : 42.50000000,
+		"createdAt" : "2023-12-04 12:52:52",
+		"updatedAt" : "2023-12-04 12:52:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "92623515-a4d3-49d9-bf3e-390dcbd5fe82",
+		"name" : "The Bahamas",
+		"longitude" : -76.00000000,
+		"latitude" : 24.25000000,
+		"createdAt" : "2023-12-04 12:56:44",
+		"updatedAt" : "2023-12-04 12:56:44",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "943e475d-6434-467d-8d2f-8c4013736252",
+		"name" : "Ireland",
+		"longitude" : -8.00000000,
+		"latitude" : 53.00000000,
+		"createdAt" : "2023-12-04 12:50:50",
+		"updatedAt" : "2023-12-04 12:50:50",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "9448005a-50d3-4ad3-a062-eda77b44be2f",
+		"name" : "Kiribati",
+		"longitude" : 173.00000000,
+		"latitude" : 1.41666666,
+		"createdAt" : "2023-12-04 12:51:57",
+		"updatedAt" : "2023-12-04 12:51:57",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "94b15ed2-a748-407b-83a6-e60ab612e90b",
+		"name" : "Honduras",
+		"longitude" : -86.50000000,
+		"latitude" : 15.00000000,
+		"createdAt" : "2023-12-04 12:50:07",
+		"updatedAt" : "2023-12-04 12:50:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "94d6b965-0edf-4e26-bfd0-34580e277c29",
+		"name" : "Venezuela",
+		"longitude" : -66.00000000,
+		"latitude" : 8.00000000,
+		"createdAt" : "2023-12-04 12:59:02",
+		"updatedAt" : "2023-12-04 12:59:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "97317e05-daf3-4c9c-8297-ceda150845ac",
+		"name" : "Chad",
+		"longitude" : 19.00000000,
+		"latitude" : 15.00000000,
+		"createdAt" : "2023-12-04 12:47:58",
+		"updatedAt" : "2023-12-04 12:47:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "97376dc0-7262-40b8-aa1c-db846112a0d7",
+		"name" : "Djibouti",
+		"longitude" : 43.00000000,
+		"latitude" : 11.50000000,
+		"createdAt" : "2023-12-04 12:48:30",
+		"updatedAt" : "2023-12-04 12:48:30",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "9b577da1-d5d9-4260-ae4d-13bb91f728d3",
+		"name" : "Cote D'Ivoire (Ivory Coast)",
+		"longitude" : -5.00000000,
+		"latitude" : 8.00000000,
+		"createdAt" : "2023-12-04 12:48:15",
+		"updatedAt" : "2023-12-04 12:48:15",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "9fd4b100-a617-4cae-a7be-39e0958b3b46",
+		"name" : "Kenya",
+		"longitude" : 38.00000000,
+		"latitude" : 1.00000000,
+		"createdAt" : "2023-12-04 12:51:56",
+		"updatedAt" : "2023-12-04 12:51:56",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a11f2a5a-ac96-44d2-a323-d206b076584d",
+		"name" : "Albania",
+		"longitude" : 20.00000000,
+		"latitude" : 41.00000000,
+		"createdAt" : "2023-12-04 12:46:25",
+		"updatedAt" : "2023-12-04 12:46:25",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a12429f2-4809-489f-b66d-da83af103284",
+		"name" : "Portugal",
+		"longitude" : -8.00000000,
+		"latitude" : 39.50000000,
+		"createdAt" : "2023-12-04 12:54:11",
+		"updatedAt" : "2023-12-04 12:54:11",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a259c64a-9f03-4a27-99e8-78945834618b",
+		"name" : "Kazakhstan",
+		"longitude" : 68.00000000,
+		"latitude" : 48.00000000,
+		"createdAt" : "2023-12-04 12:51:54",
+		"updatedAt" : "2023-12-04 12:51:54",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a2ccae95-77d9-4a15-84a9-1c797d772c89",
+		"name" : "Palestinian Territory Occupied",
+		"longitude" : 35.20000000,
+		"latitude" : 31.90000000,
+		"createdAt" : "2023-12-04 12:53:16",
+		"updatedAt" : "2023-12-04 12:53:16",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a5b7b866-0115-44cc-ac75-6c530ff3b55b",
+		"name" : "Seychelles",
+		"longitude" : 55.66666666,
+		"latitude" : -4.58333333,
+		"createdAt" : "2023-12-04 12:55:31",
+		"updatedAt" : "2023-12-04 12:55:31",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a6a7ac54-7d14-4ed6-9d41-c9baec5958d1",
+		"name" : "Fiji Islands",
+		"longitude" : 175.00000000,
+		"latitude" : -18.00000000,
+		"createdAt" : "2023-12-04 12:48:36",
+		"updatedAt" : "2023-12-04 12:48:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a70ddb13-6842-42e5-b05f-d4ace9f90d53",
+		"name" : "Malta",
+		"longitude" : 14.58333333,
+		"latitude" : 35.83333333,
+		"createdAt" : "2023-12-04 12:52:04",
+		"updatedAt" : "2023-12-04 12:52:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a7415f5e-e034-4cc7-9bd1-fe2c244ca719",
+		"name" : "Bhutan",
+		"longitude" : 90.50000000,
+		"latitude" : 27.50000000,
+		"createdAt" : "2023-12-04 12:47:17",
+		"updatedAt" : "2023-12-04 12:47:17",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a7aad63a-28f2-448f-8228-55ef802ad515",
+		"name" : "Finland",
+		"longitude" : 26.00000000,
+		"latitude" : 64.00000000,
+		"createdAt" : "2023-12-04 12:48:36",
+		"updatedAt" : "2023-12-04 12:48:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a7b05e75-32d8-4fd5-9ffd-63ef4ceac064",
+		"name" : "Iraq",
+		"longitude" : 44.00000000,
+		"latitude" : 33.00000000,
+		"createdAt" : "2023-12-04 12:50:50",
+		"updatedAt" : "2023-12-04 12:50:50",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a8ab3dd4-cdd6-4c7a-8317-1c78274c158a",
+		"name" : "Nepal",
+		"longitude" : 84.00000000,
+		"latitude" : 28.00000000,
+		"createdAt" : "2023-12-04 12:52:55",
+		"updatedAt" : "2023-12-04 12:52:55",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a8df40c7-3e50-40ae-8ede-1af57af1f34a",
+		"name" : "Heard Island and McDonald Islands",
+		"longitude" : 72.51666666,
+		"latitude" : -53.10000000,
+		"createdAt" : "2023-12-04 12:50:07",
+		"updatedAt" : "2023-12-04 12:50:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "a9536305-eb5e-4528-becb-68f9cd104a5d",
+		"name" : "Mauritania",
+		"longitude" : -12.00000000,
+		"latitude" : 20.00000000,
+		"createdAt" : "2023-12-04 12:52:04",
+		"updatedAt" : "2023-12-04 12:52:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "aa28fc3c-52b3-40cc-9383-8e397c115ec5",
+		"name" : "Cape Verde",
+		"longitude" : -24.00000000,
+		"latitude" : 16.00000000,
+		"createdAt" : "2023-12-04 12:47:58",
+		"updatedAt" : "2023-12-04 12:47:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "abfe2580-e6ee-4f52-98f1-898ad80d29fe",
+		"name" : "British Indian Ocean Territory",
+		"longitude" : 71.50000000,
+		"latitude" : -6.00000000,
+		"createdAt" : "2023-12-04 12:47:48",
+		"updatedAt" : "2023-12-04 12:47:48",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "ac5cb8e8-2d82-4e70-b28d-faca61cd892b",
+		"name" : "Canada",
+		"longitude" : -95.00000000,
+		"latitude" : 60.00000000,
+		"createdAt" : "2023-12-04 12:47:52",
+		"updatedAt" : "2023-12-04 12:47:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "aca5e082-9587-4d11-9e5d-5308bcc7fa47",
+		"name" : "Poland",
+		"longitude" : 20.00000000,
+		"latitude" : 52.00000000,
+		"createdAt" : "2023-12-04 12:53:55",
+		"updatedAt" : "2023-12-04 12:53:55",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "acfcaf17-8a94-4f51-b9b1-8eb6f76c2f50",
+		"name" : "Central African Republic",
+		"longitude" : 21.00000000,
+		"latitude" : 7.00000000,
+		"createdAt" : "2023-12-04 12:47:58",
+		"updatedAt" : "2023-12-04 12:47:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "ad12856e-87c1-4d65-91d3-0a8406bc0648",
+		"name" : "Guernsey and Alderney",
+		"longitude" : -2.58333333,
+		"latitude" : 49.46666666,
+		"createdAt" : "2023-12-04 12:50:06",
+		"updatedAt" : "2023-12-04 12:50:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "ae00fe55-777d-4931-a787-e2ae57a6ebd5",
+		"name" : "Turkmenistan",
+		"longitude" : 60.00000000,
+		"latitude" : 40.00000000,
+		"createdAt" : "2023-12-04 12:56:51",
+		"updatedAt" : "2023-12-04 12:56:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "af286809-b149-488d-ad70-43541d298116",
+		"name" : "Latvia",
+		"longitude" : 25.00000000,
+		"latitude" : 57.00000000,
+		"createdAt" : "2023-12-04 12:51:58",
+		"updatedAt" : "2023-12-04 12:51:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "affbb873-650c-4b76-a198-37b06c7015c1",
+		"name" : "Tunisia",
+		"longitude" : 9.00000000,
+		"latitude" : 34.00000000,
+		"createdAt" : "2023-12-04 12:56:45",
+		"updatedAt" : "2023-12-04 12:56:45",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b0257742-dd38-4756-91b5-4ab001fd5a9b",
+		"name" : "Madagascar",
+		"longitude" : 47.00000000,
+		"latitude" : -20.00000000,
+		"createdAt" : "2023-12-04 12:52:02",
+		"updatedAt" : "2023-12-04 12:52:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b2b94089-37e5-4182-971b-7bd651d1d772",
+		"name" : "Austria",
+		"longitude" : 13.33333333,
+		"latitude" : 47.33333333,
+		"createdAt" : "2023-12-04 12:46:58",
+		"updatedAt" : "2023-12-04 12:46:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b2ff9a97-d4ac-4a3b-a144-695a828dd271",
+		"name" : "Croatia",
+		"longitude" : 15.50000000,
+		"latitude" : 45.16666666,
+		"createdAt" : "2023-12-04 12:48:15",
+		"updatedAt" : "2023-12-04 12:48:15",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b43296f3-e413-4fe4-93cb-be5cf3167de5",
+		"name" : "Monaco",
+		"longitude" : 7.40000000,
+		"latitude" : 43.73333333,
+		"createdAt" : "2023-12-04 12:52:52",
+		"updatedAt" : "2023-12-04 12:52:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b4bbb630-71c3-47c1-be2a-7cb93f1e3d5b",
+		"name" : "Reunion",
+		"longitude" : 55.50000000,
+		"latitude" : -21.15000000,
+		"createdAt" : "2023-12-04 12:54:18",
+		"updatedAt" : "2023-12-04 12:54:18",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b4e670d0-986c-4099-9c41-9f7749e17efb",
+		"name" : "Sri Lanka",
+		"longitude" : 81.00000000,
+		"latitude" : 7.00000000,
+		"createdAt" : "2023-12-04 12:56:22",
+		"updatedAt" : "2023-12-04 12:56:22",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b54ff4d3-2412-4049-a4a7-7bef0035ca8b",
+		"name" : "El Salvador",
+		"longitude" : -88.91666666,
+		"latitude" : 13.83333333,
+		"createdAt" : "2023-12-04 12:48:34",
+		"updatedAt" : "2023-12-04 12:48:34",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b5e38912-5c9a-4d46-a8ab-600d46cd41c7",
+		"name" : "Maldives",
+		"longitude" : 73.00000000,
+		"latitude" : 3.25000000,
+		"createdAt" : "2023-12-04 12:52:03",
+		"updatedAt" : "2023-12-04 12:52:03",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b70f58f4-75c6-42e1-9a4b-f293c2c6b8ed",
+		"name" : "Mozambique",
+		"longitude" : 35.00000000,
+		"latitude" : -18.25000000,
+		"createdAt" : "2023-12-04 12:52:54",
+		"updatedAt" : "2023-12-04 12:52:54",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "b9242077-828a-460f-91a0-e51bf1478de9",
+		"name" : "India",
+		"longitude" : 77.00000000,
+		"latitude" : 20.00000000,
+		"createdAt" : "2023-12-04 12:50:16",
+		"updatedAt" : "2023-12-04 12:50:16",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "baa63ea2-0ce4-4470-a7e8-71beff41509f",
+		"name" : "Faroe Islands",
+		"longitude" : -7.00000000,
+		"latitude" : 62.00000000,
+		"createdAt" : "2023-12-04 12:48:36",
+		"updatedAt" : "2023-12-04 12:48:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "bbdf72db-b1bd-4b2b-bc08-73333018d172",
+		"name" : "Burkina Faso",
+		"longitude" : -2.00000000,
+		"latitude" : 13.00000000,
+		"createdAt" : "2023-12-04 12:47:50",
+		"updatedAt" : "2023-12-04 12:47:50",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "bd821c92-b7c0-4dc9-b682-0f6a83681860",
+		"name" : "Saint Kitts And Nevis",
+		"longitude" : -62.75000000,
+		"latitude" : 17.33333333,
+		"createdAt" : "2023-12-04 12:55:24",
+		"updatedAt" : "2023-12-04 12:55:24",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "bd871c74-0abe-4357-8308-f722f2a2dd39",
+		"name" : "Japan",
+		"longitude" : 138.00000000,
+		"latitude" : 36.00000000,
+		"createdAt" : "2023-12-04 12:51:46",
+		"updatedAt" : "2023-12-04 12:51:46",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "be0a2ea8-d3b1-4ce1-a94e-d07e0df73fdf",
+		"name" : "Dominican Republic",
+		"longitude" : -70.66666666,
+		"latitude" : 19.00000000,
+		"createdAt" : "2023-12-04 12:48:30",
+		"updatedAt" : "2023-12-04 12:48:30",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "bf701d02-e4f2-414f-b163-95df7181ddcc",
+		"name" : "Antigua And Barbuda",
+		"longitude" : -61.80000000,
+		"latitude" : 17.05000000,
+		"createdAt" : "2023-12-04 12:46:29",
+		"updatedAt" : "2023-12-04 12:46:29",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "bf963e85-5912-4910-aec0-b2b781f227c3",
+		"name" : "Guatemala",
+		"longitude" : -90.25000000,
+		"latitude" : 15.50000000,
+		"createdAt" : "2023-12-04 12:50:04",
+		"updatedAt" : "2023-12-04 12:50:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "bfdd6ea2-1ca1-4131-8992-d9bd63ebcd9a",
+		"name" : "Bonaire, Sint Eustatius and Saba",
+		"longitude" : -68.26666700,
+		"latitude" : 12.15000000,
+		"createdAt" : "2023-12-04 12:47:18",
+		"updatedAt" : "2023-12-04 12:47:18",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c0d146a9-34d6-435a-9fa7-f74498f43814",
+		"name" : "Italy",
+		"longitude" : 12.83333333,
+		"latitude" : 42.83333333,
+		"createdAt" : "2023-12-04 12:50:53",
+		"updatedAt" : "2023-12-04 12:50:53",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c0e2bf6a-9088-408b-a0ba-36ceeafb6112",
+		"name" : "Angola",
+		"longitude" : 18.50000000,
+		"latitude" : -12.50000000,
+		"createdAt" : "2023-12-04 12:46:28",
+		"updatedAt" : "2023-12-04 12:46:28",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c12847e9-1186-4b45-ad98-9b744f63183f",
+		"name" : "Tokelau",
+		"longitude" : -172.00000000,
+		"latitude" : -9.00000000,
+		"createdAt" : "2023-12-04 12:56:45",
+		"updatedAt" : "2023-12-04 12:56:45",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c1bf9227-2167-4092-8b1f-bded1789c455",
+		"name" : "Spain",
+		"longitude" : -4.00000000,
+		"latitude" : 40.00000000,
+		"createdAt" : "2023-12-04 12:55:39",
+		"updatedAt" : "2023-12-04 12:55:39",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c352736c-a4a0-4acd-9f1c-2e29dda6cf95",
+		"name" : "Sweden",
+		"longitude" : 15.00000000,
+		"latitude" : 62.00000000,
+		"createdAt" : "2023-12-04 12:56:23",
+		"updatedAt" : "2023-12-04 12:56:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c4ffc788-baf3-46f8-bd2e-68f041daac36",
+		"name" : "Egypt",
+		"longitude" : 30.00000000,
+		"latitude" : 27.00000000,
+		"createdAt" : "2023-12-04 12:48:33",
+		"updatedAt" : "2023-12-04 12:48:33",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c5b9b133-c32a-4843-97bc-9c7f54d63dec",
+		"name" : "French Guiana",
+		"longitude" : -53.00000000,
+		"latitude" : 4.00000000,
+		"createdAt" : "2023-12-04 12:49:22",
+		"updatedAt" : "2023-12-04 12:49:22",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c5f9de7a-dc79-49e7-b1c0-29f36ef1e18d",
+		"name" : "Bulgaria",
+		"longitude" : 25.00000000,
+		"latitude" : 43.00000000,
+		"createdAt" : "2023-12-04 12:47:48",
+		"updatedAt" : "2023-12-04 12:47:48",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c8567763-c9aa-434a-98ff-a6851c1dd372",
+		"name" : "Niger",
+		"longitude" : 8.00000000,
+		"latitude" : 16.00000000,
+		"createdAt" : "2023-12-04 12:53:05",
+		"updatedAt" : "2023-12-04 12:53:05",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c9486714-0c99-4f07-8499-d5d659e92f63",
+		"name" : "Saint-Barthelemy",
+		"longitude" : -63.41666666,
+		"latitude" : 18.50000000,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c97d4c30-7c11-44e8-9469-360dfb374f80",
+		"name" : "Pitcairn Island",
+		"longitude" : -130.10000000,
+		"latitude" : -25.06666666,
+		"createdAt" : "2023-12-04 12:53:55",
+		"updatedAt" : "2023-12-04 12:53:55",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c98a10c1-fe88-4a29-a8c6-450e21b45adf",
+		"name" : "Eritrea",
+		"longitude" : 39.00000000,
+		"latitude" : 15.00000000,
+		"createdAt" : "2023-12-04 12:48:34",
+		"updatedAt" : "2023-12-04 12:48:34",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "c9f8a391-83b1-4de0-b28d-8b7b0336c050",
+		"name" : "Saint Pierre and Miquelon",
+		"longitude" : -56.33333333,
+		"latitude" : 46.83333333,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cb5a1ed0-3798-47df-8fad-d114fa6f0be9",
+		"name" : "Saudi Arabia",
+		"longitude" : 45.00000000,
+		"latitude" : 25.00000000,
+		"createdAt" : "2023-12-04 12:55:27",
+		"updatedAt" : "2023-12-04 12:55:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cb6e892f-ad4d-4b43-87f4-d2c7287b8e73",
+		"name" : "Singapore",
+		"longitude" : 103.80000000,
+		"latitude" : 1.36666666,
+		"createdAt" : "2023-12-04 12:55:32",
+		"updatedAt" : "2023-12-04 12:55:32",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cb9af111-0807-49b5-9334-ea5b54e48bb1",
+		"name" : "Cocos (Keeling) Islands",
+		"longitude" : 96.83333333,
+		"latitude" : -12.50000000,
+		"createdAt" : "2023-12-04 12:48:07",
+		"updatedAt" : "2023-12-04 12:48:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cc7c383d-953f-42ac-9340-5537159473b4",
+		"name" : "Micronesia",
+		"longitude" : 158.25000000,
+		"latitude" : 6.91666666,
+		"createdAt" : "2023-12-04 12:52:51",
+		"updatedAt" : "2023-12-04 12:52:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cd1d12e2-b7c8-4176-b8af-7448eb1efea8",
+		"name" : "Lesotho",
+		"longitude" : 28.50000000,
+		"latitude" : -29.50000000,
+		"createdAt" : "2023-12-04 12:51:59",
+		"updatedAt" : "2023-12-04 12:51:59",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cd39039e-08f0-4ebc-9329-a39c6db7403f",
+		"name" : "Malaysia",
+		"longitude" : 112.50000000,
+		"latitude" : 2.50000000,
+		"createdAt" : "2023-12-04 12:52:02",
+		"updatedAt" : "2023-12-04 12:52:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "ce3477b9-5a0b-4b6a-896f-fb445171ab4a",
+		"name" : "France",
+		"longitude" : 2.00000000,
+		"latitude" : 46.00000000,
+		"createdAt" : "2023-12-04 12:48:39",
+		"updatedAt" : "2023-12-04 12:48:39",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cf0c7a47-b2c8-45eb-92f1-e96161b43d2d",
+		"name" : "Burundi",
+		"longitude" : 30.00000000,
+		"latitude" : -3.50000000,
+		"createdAt" : "2023-12-04 12:47:51",
+		"updatedAt" : "2023-12-04 12:47:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "cf9a12b9-ce10-454c-805d-02876a748a2f",
+		"name" : "Hong Kong S.A.R.",
+		"longitude" : 114.16666666,
+		"latitude" : 22.25000000,
+		"createdAt" : "2023-12-04 12:50:10",
+		"updatedAt" : "2023-12-04 12:50:10",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d06b5282-ca0d-492c-8001-32b1aff00d7f",
+		"name" : "Christmas Island",
+		"longitude" : 105.66666666,
+		"latitude" : -10.50000000,
+		"createdAt" : "2023-12-04 12:48:07",
+		"updatedAt" : "2023-12-04 12:48:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d13fdda0-ec58-4fd4-a9d5-a4b90e424b05",
+		"name" : "Syria",
+		"longitude" : 38.00000000,
+		"latitude" : 35.00000000,
+		"createdAt" : "2023-12-04 12:56:35",
+		"updatedAt" : "2023-12-04 12:56:35",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d1dc41ec-8ff7-4d64-af3a-c9b604b5f25c",
+		"name" : "Iran",
+		"longitude" : 53.00000000,
+		"latitude" : 32.00000000,
+		"createdAt" : "2023-12-04 12:50:41",
+		"updatedAt" : "2023-12-04 12:50:41",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d3734862-42b5-448f-a7bc-70061d495d8c",
+		"name" : "Man (Isle of)",
+		"longitude" : -4.50000000,
+		"latitude" : 54.25000000,
+		"createdAt" : "2023-12-04 12:52:04",
+		"updatedAt" : "2023-12-04 12:52:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d3877776-65c6-475d-ab21-66550b1a43a8",
+		"name" : "Vatican City State (Holy See)",
+		"longitude" : 12.45000000,
+		"latitude" : 41.90000000,
+		"createdAt" : "2023-12-04 12:59:02",
+		"updatedAt" : "2023-12-04 12:59:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d3916817-bc18-464f-849f-3b6c8e1482e6",
+		"name" : "Cuba",
+		"longitude" : -80.00000000,
+		"latitude" : 21.50000000,
+		"createdAt" : "2023-12-04 12:48:19",
+		"updatedAt" : "2023-12-04 12:48:19",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d3e9e9b2-c2cd-4487-985d-a102f8d5cf1c",
+		"name" : "Antarctica",
+		"longitude" : 4.48000000,
+		"latitude" : -74.65000000,
+		"createdAt" : "2023-12-04 12:46:29",
+		"updatedAt" : "2023-12-04 12:46:29",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d469d8a1-b00e-49dd-bbe6-3c6058cc3361",
+		"name" : "Wallis And Futuna Islands",
+		"longitude" : -176.20000000,
+		"latitude" : -13.30000000,
+		"createdAt" : "2023-12-04 12:59:06",
+		"updatedAt" : "2023-12-04 12:59:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d4adc1aa-e9da-4989-a700-06ab778d7680",
+		"name" : "North Macedonia",
+		"longitude" : 22.00000000,
+		"latitude" : 41.83333333,
+		"createdAt" : "2023-12-04 12:53:08",
+		"updatedAt" : "2023-12-04 12:53:08",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d5ac32d6-50a0-4f6c-8c38-a1cf2d00a17f",
+		"name" : "Virgin Islands (US)",
+		"longitude" : -64.93000000,
+		"latitude" : 18.34000000,
+		"createdAt" : "2023-12-04 12:59:06",
+		"updatedAt" : "2023-12-04 12:59:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d86bbded-37f8-4bb4-b636-64b19844eff3",
+		"name" : "Jordan",
+		"longitude" : 36.00000000,
+		"latitude" : 31.00000000,
+		"createdAt" : "2023-12-04 12:51:54",
+		"updatedAt" : "2023-12-04 12:51:54",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d8953627-113d-413c-b3dd-20b6379a102b",
+		"name" : "Kyrgyzstan",
+		"longitude" : 75.00000000,
+		"latitude" : 41.00000000,
+		"createdAt" : "2023-12-04 12:51:57",
+		"updatedAt" : "2023-12-04 12:51:57",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d8a668dd-af42-4fa9-9540-1f8f4a2dc381",
+		"name" : "Switzerland",
+		"longitude" : 8.00000000,
+		"latitude" : 47.00000000,
+		"createdAt" : "2023-12-04 12:56:27",
+		"updatedAt" : "2023-12-04 12:56:27",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "d981460e-577a-42f4-a959-565df4c51fc5",
+		"name" : "Philippines",
+		"longitude" : 122.00000000,
+		"latitude" : 13.00000000,
+		"createdAt" : "2023-12-04 12:53:23",
+		"updatedAt" : "2023-12-04 12:53:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "da2a808f-1c64-47a0-ba7b-b222cc69f5f1",
+		"name" : "Sudan",
+		"longitude" : 30.00000000,
+		"latitude" : 15.00000000,
+		"createdAt" : "2023-12-04 12:56:23",
+		"updatedAt" : "2023-12-04 12:56:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "da45a0d2-a4d9-4c0c-a1ed-6e6f0b352256",
+		"name" : "Taiwan",
+		"longitude" : 121.00000000,
+		"latitude" : 23.50000000,
+		"createdAt" : "2023-12-04 12:56:36",
+		"updatedAt" : "2023-12-04 12:56:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "db6d8636-34a0-45d9-9b3d-0d2ad7e2a72f",
+		"name" : "Mexico",
+		"longitude" : -102.00000000,
+		"latitude" : 23.00000000,
+		"createdAt" : "2023-12-04 12:52:06",
+		"updatedAt" : "2023-12-04 12:52:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "dba0b80d-0d1d-4732-bc3b-2b9501d88071",
+		"name" : "Afghanistan",
+		"longitude" : 65.00000000,
+		"latitude" : 33.00000000,
+		"createdAt" : "2023-12-04 12:46:24",
+		"updatedAt" : "2023-12-04 12:46:24",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "dc318c14-3914-4ad3-ab44-c0010d7d7df1",
+		"name" : "Cyprus",
+		"longitude" : 33.00000000,
+		"latitude" : 35.00000000,
+		"createdAt" : "2023-12-04 12:48:20",
+		"updatedAt" : "2023-12-04 12:48:20",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "dc82c8da-cf17-4750-96fd-2e4a6c94059c",
+		"name" : "Turkey",
+		"longitude" : 35.00000000,
+		"latitude" : 39.00000000,
+		"createdAt" : "2023-12-04 12:56:46",
+		"updatedAt" : "2023-12-04 12:56:46",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e0da44aa-70ba-4820-9ca1-5c9eebd44815",
+		"name" : "South Korea",
+		"longitude" : 127.50000000,
+		"latitude" : 37.00000000,
+		"createdAt" : "2023-12-04 12:55:38",
+		"updatedAt" : "2023-12-04 12:55:38",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e15f9dcd-80b5-438e-9d2e-a66fb66e1ea4",
+		"name" : "Yemen",
+		"longitude" : 48.00000000,
+		"latitude" : 15.00000000,
+		"createdAt" : "2023-12-04 12:59:06",
+		"updatedAt" : "2023-12-04 12:59:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e1f33e1c-f61d-475f-8a77-5614fb22f7cb",
+		"name" : "Belize",
+		"longitude" : -88.75000000,
+		"latitude" : 17.25000000,
+		"createdAt" : "2023-12-04 12:47:16",
+		"updatedAt" : "2023-12-04 12:47:16",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e20eafb7-08d0-43c5-b388-2cf39962c41b",
+		"name" : "Equatorial Guinea",
+		"longitude" : 10.00000000,
+		"latitude" : 2.00000000,
+		"createdAt" : "2023-12-04 12:48:34",
+		"updatedAt" : "2023-12-04 12:48:34",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e2a74800-11e1-4d76-94d2-bc39ef727aa9",
+		"name" : "Romania",
+		"longitude" : 25.00000000,
+		"latitude" : 46.00000000,
+		"createdAt" : "2023-12-04 12:54:18",
+		"updatedAt" : "2023-12-04 12:54:18",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e2ad5850-ac7b-4be7-8cc0-9ccddf949554",
+		"name" : "Aruba",
+		"longitude" : -69.96666666,
+		"latitude" : 12.50000000,
+		"createdAt" : "2023-12-04 12:46:37",
+		"updatedAt" : "2023-12-04 12:46:37",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e2e6e7fc-e52a-4445-b340-211f78de76c9",
+		"name" : "Peru",
+		"longitude" : -76.00000000,
+		"latitude" : -10.00000000,
+		"createdAt" : "2023-12-04 12:53:20",
+		"updatedAt" : "2023-12-04 12:53:20",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e4e77812-1f71-4195-b0e2-6cd6ea061b4f",
+		"name" : "New Zealand",
+		"longitude" : 174.00000000,
+		"latitude" : -41.00000000,
+		"createdAt" : "2023-12-04 12:53:03",
+		"updatedAt" : "2023-12-04 12:53:03",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e5ecbbc2-f433-4039-86cb-d5e51bc1f812",
+		"name" : "Libya",
+		"longitude" : 17.00000000,
+		"latitude" : 25.00000000,
+		"createdAt" : "2023-12-04 12:52:00",
+		"updatedAt" : "2023-12-04 12:52:00",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e5f0a0ce-ec37-48cf-97af-6f11c9ac5895",
+		"name" : "Barbados",
+		"longitude" : -59.53333333,
+		"latitude" : 13.16666666,
+		"createdAt" : "2023-12-04 12:47:12",
+		"updatedAt" : "2023-12-04 12:47:12",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e782457f-c8cf-4bad-b7fd-f1c83ff06146",
+		"name" : "Mayotte",
+		"longitude" : 45.16666666,
+		"latitude" : -12.83333333,
+		"createdAt" : "2023-12-04 12:52:06",
+		"updatedAt" : "2023-12-04 12:52:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e86484a9-a6ed-45d2-86f9-cd999ae6600d",
+		"name" : "Bermuda",
+		"longitude" : -64.75000000,
+		"latitude" : 32.33333333,
+		"createdAt" : "2023-12-04 12:47:17",
+		"updatedAt" : "2023-12-04 12:47:17",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "e8a56544-7e91-4fca-9398-685151a64dfc",
+		"name" : "South Sudan",
+		"longitude" : 30.00000000,
+		"latitude" : 7.00000000,
+		"createdAt" : "2023-12-04 12:55:39",
+		"updatedAt" : "2023-12-04 12:55:39",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "ebc05577-5e3c-4e47-a75e-10d13d8e7329",
+		"name" : "Sierra Leone",
+		"longitude" : -11.50000000,
+		"latitude" : 8.50000000,
+		"createdAt" : "2023-12-04 12:55:31",
+		"updatedAt" : "2023-12-04 12:55:31",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "ee2a6695-6561-4dec-81d9-3ea8082d47bd",
+		"name" : "Sint Maarten (Dutch part)",
+		"longitude" : -63.05000000,
+		"latitude" : 18.03333300,
+		"createdAt" : "2023-12-04 12:55:32",
+		"updatedAt" : "2023-12-04 12:55:32",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "eed6b3c0-7e11-43e5-963a-f079807fe63e",
+		"name" : "Ukraine",
+		"longitude" : 32.00000000,
+		"latitude" : 49.00000000,
+		"createdAt" : "2023-12-04 12:56:52",
+		"updatedAt" : "2023-12-04 12:56:52",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "efc80ebf-ad10-467f-b066-2254ea551c7c",
+		"name" : "South Africa",
+		"longitude" : 24.00000000,
+		"latitude" : -29.00000000,
+		"createdAt" : "2023-12-04 12:55:36",
+		"updatedAt" : "2023-12-04 12:55:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "eff2f7fd-baeb-4271-a4ae-b71828191874",
+		"name" : "Uganda",
+		"longitude" : 32.00000000,
+		"latitude" : 1.00000000,
+		"createdAt" : "2023-12-04 12:56:51",
+		"updatedAt" : "2023-12-04 12:56:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f0209022-d444-4e55-b072-af2ea308e232",
+		"name" : "Puerto Rico",
+		"longitude" : -66.50000000,
+		"latitude" : 18.25000000,
+		"createdAt" : "2023-12-04 12:54:17",
+		"updatedAt" : "2023-12-04 12:54:17",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f0452058-447a-4b38-af45-6bf1451e14be",
+		"name" : "Vanuatu",
+		"longitude" : 167.00000000,
+		"latitude" : -16.00000000,
+		"createdAt" : "2023-12-04 12:59:02",
+		"updatedAt" : "2023-12-04 12:59:02",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f0caff92-f686-457e-ac3b-ae1250a883ae",
+		"name" : "Solomon Islands",
+		"longitude" : 159.00000000,
+		"latitude" : -8.00000000,
+		"createdAt" : "2023-12-04 12:55:36",
+		"updatedAt" : "2023-12-04 12:55:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f194e8fe-99fc-4979-a4ae-85a3d467e361",
+		"name" : "Belgium",
+		"longitude" : 4.00000000,
+		"latitude" : 50.83333333,
+		"createdAt" : "2023-12-04 12:47:13",
+		"updatedAt" : "2023-12-04 12:47:13",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f2005c9e-c5f9-48c3-be1b-ebbbda6aac87",
+		"name" : "Niue",
+		"longitude" : -169.86666666,
+		"latitude" : -19.03333333,
+		"createdAt" : "2023-12-04 12:53:08",
+		"updatedAt" : "2023-12-04 12:53:08",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f3282c8a-df7f-475a-8ea4-133d56336664",
+		"name" : "Haiti",
+		"longitude" : -72.41666666,
+		"latitude" : 19.00000000,
+		"createdAt" : "2023-12-04 12:50:07",
+		"updatedAt" : "2023-12-04 12:50:07",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f387ba0e-efb8-405c-8972-be8e361e1300",
+		"name" : "United Kingdom",
+		"longitude" : -2.00000000,
+		"latitude" : 54.00000000,
+		"createdAt" : "2023-12-04 12:57:03",
+		"updatedAt" : "2023-12-04 12:57:03",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f4a3127b-2897-4ea9-ad73-b664ac35b7ff",
+		"name" : "Palau",
+		"longitude" : 134.50000000,
+		"latitude" : 7.50000000,
+		"createdAt" : "2023-12-04 12:53:15",
+		"updatedAt" : "2023-12-04 12:53:15",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f4e66d44-462f-4fff-bcd0-830d5d299999",
+		"name" : "North Korea",
+		"longitude" : 127.00000000,
+		"latitude" : 40.00000000,
+		"createdAt" : "2023-12-04 12:53:08",
+		"updatedAt" : "2023-12-04 12:53:08",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f693a481-1d8b-492b-80dd-ef27d20157e1",
+		"name" : "Panama",
+		"longitude" : -80.00000000,
+		"latitude" : 9.00000000,
+		"createdAt" : "2023-12-04 12:53:16",
+		"updatedAt" : "2023-12-04 12:53:16",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f6ff00a6-6007-4e8e-958b-43ba31858876",
+		"name" : "Somalia",
+		"longitude" : 49.00000000,
+		"latitude" : 10.00000000,
+		"createdAt" : "2023-12-04 12:55:36",
+		"updatedAt" : "2023-12-04 12:55:36",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f72e8a18-87fb-43a4-adbd-561348d1ebd8",
+		"name" : "Moldova",
+		"longitude" : 29.00000000,
+		"latitude" : 47.00000000,
+		"createdAt" : "2023-12-04 12:52:51",
+		"updatedAt" : "2023-12-04 12:52:51",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f73afcb3-8c4f-4fdf-bf02-80da0285cf28",
+		"name" : "Curaçao",
+		"longitude" : -68.93333300,
+		"latitude" : 12.11666700,
+		"createdAt" : "2023-12-04 12:48:20",
+		"updatedAt" : "2023-12-04 12:48:20",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f8107a23-57e5-4e98-a2dd-2eaa2bda9ffe",
+		"name" : "Northern Mariana Islands",
+		"longitude" : 145.75000000,
+		"latitude" : 15.20000000,
+		"createdAt" : "2023-12-04 12:53:10",
+		"updatedAt" : "2023-12-04 12:53:10",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f84a7984-07f8-4136-a410-e6f3446e6107",
+		"name" : "Denmark",
+		"longitude" : 10.00000000,
+		"latitude" : 56.00000000,
+		"createdAt" : "2023-12-04 12:48:28",
+		"updatedAt" : "2023-12-04 12:48:28",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f852a817-9599-44ac-bf7c-26ceb981f8bd",
+		"name" : "Togo",
+		"longitude" : 1.16666666,
+		"latitude" : 8.00000000,
+		"createdAt" : "2023-12-04 12:56:45",
+		"updatedAt" : "2023-12-04 12:56:45",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "f8aa4cdc-2046-40e2-a318-059f046f4abc",
+		"name" : "Svalbard And Jan Mayen Islands",
+		"longitude" : 20.00000000,
+		"latitude" : 78.00000000,
+		"createdAt" : "2023-12-04 12:56:23",
+		"updatedAt" : "2023-12-04 12:56:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fa067461-a765-4632-a00e-c4ecc3eeeb37",
+		"name" : "Cayman Islands",
+		"longitude" : -80.50000000,
+		"latitude" : 19.50000000,
+		"createdAt" : "2023-12-04 12:47:58",
+		"updatedAt" : "2023-12-04 12:47:58",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fbec5e35-742d-4f2f-bdb3-1873aa180a92",
+		"name" : "French Southern Territories",
+		"longitude" : 69.16700000,
+		"latitude" : -49.25000000,
+		"createdAt" : "2023-12-04 12:49:22",
+		"updatedAt" : "2023-12-04 12:49:22",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fc249b71-0e76-41de-95d8-1f5e5d87547d",
+		"name" : "Guadeloupe",
+		"longitude" : -61.58333300,
+		"latitude" : 16.25000000,
+		"createdAt" : "2023-12-04 12:50:04",
+		"updatedAt" : "2023-12-04 12:50:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fca00f94-8d77-4d1c-a355-85137c0eabf3",
+		"name" : "Gambia The",
+		"longitude" : -16.56666666,
+		"latitude" : 13.46666666,
+		"createdAt" : "2023-12-04 12:49:23",
+		"updatedAt" : "2023-12-04 12:49:23",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fcaec4e2-936e-4c09-996c-85ae39fce235",
+		"name" : "Vietnam",
+		"longitude" : 107.83333333,
+		"latitude" : 16.16666666,
+		"createdAt" : "2023-12-04 12:59:03",
+		"updatedAt" : "2023-12-04 12:59:03",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fccb6b1f-e677-4a1d-80bb-6ac7b4d42f9f",
+		"name" : "Western Sahara",
+		"longitude" : -13.00000000,
+		"latitude" : 24.50000000,
+		"createdAt" : "2023-12-04 12:59:06",
+		"updatedAt" : "2023-12-04 12:59:06",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fd12dacc-3426-4a72-a9e9-e63f03042ddf",
+		"name" : "Nicaragua",
+		"longitude" : -85.00000000,
+		"latitude" : 13.00000000,
+		"createdAt" : "2023-12-04 12:53:04",
+		"updatedAt" : "2023-12-04 12:53:04",
+		"deletedAt" : null
+	},
+	{
+		"_id" : "fd720dc1-b6a7-4f86-88b8-80c003395b15",
+		"name" : "Ethiopia",
+		"longitude" : 38.00000000,
+		"latitude" : 8.00000000,
+		"createdAt" : "2023-12-04 12:48:35",
+		"updatedAt" : "2023-12-04 12:48:35",
+		"deletedAt" : null
+	}
+]
